@@ -49,7 +49,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col items-center p-4 sm:p-8 min-h-screen bg-gray-100">
-    <div className="max-w-md mx-auto mt-16 px-4">
+    <div className="w-full sm:px-4 max-w-sm sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl mx-auto mt-16 px-4">
       <h1 className="text-4xl font-bold text-center text-blue-600 mb-8">
         Expense Tracker
       </h1>
